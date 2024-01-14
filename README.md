@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Work Opportunities
 - 🌱 I’m currently learning Css3 and Javascript
 - 💞️ I’m looking to collaborate on project related to Frontend
-- 📫 You can Reach me @nehal4workkk@gmail.com
+- 📫 You can Reach me @nehal4dev@gmail.com
 
 <!---
 nehalskdev/nehalskdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
