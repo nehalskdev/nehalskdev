@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nehal Shaikh aka @nehalskdev
 - 👀 I’m interested in Frontend Work Opportunities
 - 🌱 I’m currently learning Css3 and Javascript
-- 💞️ I’m looking to collaborate on project related to Frontend
+- 💞️ Passionate Frontend Developer actively seeking new opportunities to transform innovative ideas into captivating digital experiences!
 - 📫 You can Reach me @nehal4dev@gmail.com
 
 <!---
