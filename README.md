@@ -1,7 +1,7 @@
 <h3 align="left">About me:</h3>
 
-- 👋 Hi, I’m Nehal Shaikh aka @nehalskdev
-- 👀 Open for Frontend Work Opportunities and freelance projects
+- 👋 Hi, I’m Nehal Shaikh aka @nehalskdev 
+- 👀 Open for <strong>Frontend Work Opportunities</strong> and freelance projects,
 - 🌱 I’m currently Sharpening my skill of React JS
 - 💞️ Passionate Frontend Developer actively seeking new opportunities to transform innovative ideas into captivating digital experiences!\
 - Checkout my web portfolio <p>https://nehal-web-portfolio.vercel.app/ 🔗</p>
