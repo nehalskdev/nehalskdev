@@ -4,7 +4,7 @@
 - 👀 Open for Frontend Work Opportunities and freelance projects
 - 🌱 I’m currently Sharpening my skill of React JS
 - 💞️ Passionate Frontend Developer actively seeking new opportunities to transform innovative ideas into captivating digital experiences!\
-- Checkout my web portfolio https://nehal-portfolio-teal.vercel.app/
+- Checkout my web portfolio <p>https://nehal-web-portfolio.vercel.app/</p>
 - 📫 You can reach out to me on my social handles below
 <h3 align="left">Connect with me:</h3>
 <p align="left">
